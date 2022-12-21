@@ -342,52 +342,52 @@ img {
 
 /* ===== SKILLS =====*/
 .competencias{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 
 .card_competencias{
-  position: relative;
-  z-index: 10;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: 10px;
-  width: 400px;
-  height: 225px;
-  gap: 15px;
-  border: #000 2px solid;
-  border-radius: 20pt;
-  background-color: #fff;
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+    width: 400px;
+    height: 225px;
+    gap: 15px;
+    border: #000 2px solid;
+    border-radius: 20pt;
+    background-color: #fff;
 }
 
 .name_competencia{
-  width: 100%;
-  font-size: 24px;
-  margin: auto;
-  text-align: center;
-  font-weight: 700;
+    width: 100%;
+    font-size: 24px;
+    margin: auto;
+    text-align: center;
+    font-weight: 700;
 }
 
 .card_item{
-  display: flex;
-  flex-direction: column;
-  text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
 .name_item{
-  height: 50%;
+    height: 50%;
 }
 
 .img_item{
-  width: 40px;
-  height: 40px;
-  margin: auto;
+    width: 40px;
+    height: 40px;
+    margin: auto;
 }
 
 /* ===== EDUCATION =====*/
